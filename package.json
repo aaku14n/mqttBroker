@@ -1,0 +1,20 @@
+{
+  "name": "mqttlittra",
+  "version": "1.0.0",
+  "description": "MQTT broker setup ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "MQTT",
+    "nodejs"
+  ],
+  "author": "aakarsh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mosca": "^2.8.3"
+  }
+}
